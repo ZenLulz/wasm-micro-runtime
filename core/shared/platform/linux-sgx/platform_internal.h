@@ -24,7 +24,6 @@
 
 #include "sgx_error.h"
 #include "sgx_file.h"
-#include "sgx_pthread.h"
 #include "sgx_time.h"
 #include "sgx_socket.h"
 #include "sgx_signal.h"
